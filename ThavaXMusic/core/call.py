@@ -18,7 +18,6 @@ from pytgcalls.types.stream import StreamAudioEnded
 
 import config
 from config import POWERED_BY
-from ThavaXMusic import LOGGER, YouTube, app
 from ThavaXMusic.misc import db
 from ThavaXMusic.utils.database import (
     add_active_chat,
