@@ -28,3 +28,4 @@ telegraph
 tgcrypto
 unidecode
 youtube-search
+youtube-search-python
