@@ -23,11 +23,8 @@ pyyaml
 pytz
 requests
 search_engine_parser
-speedtest-cli
 spotipy
 telegraph
 tgcrypto
 unidecode
-yt-dlp
 youtube-search
-youtube-search-python
