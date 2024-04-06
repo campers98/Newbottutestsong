@@ -12,7 +12,7 @@ API_HASH = getenv("API_HASH", "2ae1c9912cd2efdecae7f0208994f0b0")
 
 BOT_TOKEN = getenv("BOT_TOKEN", "6348947600:AAEiVkLjouPBs5_JcPTNegCXTPoGN8rGwFs")
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://singlecell94:<Best@1122334455>@cluster12345.rbtkpoo.mongodb.net/?retryWrites=true&w=majority&appName=Cluster12345")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://singlecell94:<Best@1122334455>@cluster12345.rbtkpoo.mongodb.net/?retryWrites=true&w=majority")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 54000))
 
